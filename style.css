@@ -1,0 +1,264 @@
+*{margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.fixed{
+    position: fixed;
+}
+
+.logo{
+    
+    height: 30px;
+    width: 30px;
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-right: 600px;
+}
+.right-text{
+    font-size: 20px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 15px;
+    color:white;
+}
+.right-text:hover{
+    color:gray;
+}
+.div1{
+    background-color:lightsteelblue;
+    color:white;
+}
+.appdevices{
+    display: block;
+    margin:0 auto;
+    padding: 80px;
+}
+
+.MacbookAir{
+    width: 25%;
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: lavender;
+    
+}
+.iPad{
+    width: 25%;
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: tan;
+    
+
+}
+.iPhoneX{
+    width: 25%;
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: powderblue;
+    
+
+}
+.About{
+    width: 25%;
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    background-color:	thistle;
+    
+}
+.icons{
+    font-size: 50px;
+    margin:40px;
+}
+.textIcon{
+    margin: 20px;
+}
+.imgTablet{
+    background-color:lightsteelblue;
+    width:50%;
+    float: left;
+    height: 250px;
+
+}
+.iPadText{
+    background-color: thistle;
+    width:50%;
+    float: right;
+     height: 250px;
+    
+    
+}
+.imgt{
+     display: block;
+    margin: 30px auto;
+    box-sizing: border-box;
+    height:200px ;
+    width: 200px;
+}
+.h2text1{
+    text-align: center;
+    margin-top:20px;
+    
+   
+}
+.pText1{
+    box-sizing: border-box;
+    text-align: justify;
+    word-spacing: 3px;
+    line-height: 25px;
+    text-indent: 40px;
+    padding: 30px;
+    font-size: 17px;
+    color: white;
+
+}
+.iPhoneText{
+    background-color: tan;
+    width:50%;
+    float: left;
+     height: 250px
+}
+.h2Text2{
+    text-align: center;
+    margin-top:20px;
+
+}
+.pText2{
+    box-sizing: border-box;
+    text-align: justify;
+    word-spacing: 3px;
+    line-height: 25px;
+    text-indent: 40px;
+    padding: 30px;
+    font-size: 17px;
+    color: white;
+}
+
+
+.imgiPhone{
+    background-color:lightsteelblue;
+    width:50%;
+    float: right;
+    height: 250px;
+}
+.imgiP{
+    display: block;
+    margin: 30px auto;
+    box-sizing: border-box;
+    height:200px ;
+    width: 200px;
+
+}
+.imgMac{
+    background-color:lightsteelblue;
+    width:50%;
+    float: left;
+    height: 250px;
+
+}
+.imgm{
+    display: block;
+    margin: 30px auto;
+    box-sizing: border-box;
+    height:200px ;
+    width: 200px;
+
+}
+.MacText{
+    background-color:	lightsalmon;
+    width:50%;
+    float: right;
+     height: 250px;
+
+}
+.h2text3{
+    text-align: center;
+    margin-top:20px;
+
+}
+.pText3{
+    box-sizing: border-box;
+    text-align: justify;
+    word-spacing: 3px;
+    line-height: 25px;
+    text-indent: 40px;
+    padding: 30px;
+    font-size: 17px;
+    color: white;
+
+}
+
+.divT{
+    background-color: thistle;
+    width: 33.3%;
+    display: inline-block;
+    box-sizing: border-box;
+    height: 130px;
+
+}
+.h3TSE{
+    text-align: center;
+    margin-top:20px;
+
+}
+.pTSE{
+    box-sizing: border-box;
+    text-align: justify;
+    word-spacing: 3px;
+    line-height: 25px;
+    text-indent: 40px;
+    padding: 30px;
+    font-size: 17px;
+    color: white;
+
+    
+
+}
+.divS{
+    background-color: tan;
+    width: 33.3%;
+    display: inline-block;
+    box-sizing: border-box;
+    height: 130px;
+}
+
+
+.divE{
+    background-color: powderblue;
+    width: 33.3%;
+    display: inline-block;
+    box-sizing: border-box;
+    height: 130px;
+
+}
+
+
+.divFonts{
+    background-color:lightsteelblue;
+    height: 200px;
+    border-bottom: 5px solid skyblue;
+
+}
+.icons2{
+   margin:100px 70px;
+   font-size:30px;
+  
+}
+
+.fb{
+    margin-left:400px;
+    font-size:30px;
+    margin-right: 70px;;
+}
+.footer{
+    background-color:darkslateblue ;
+    padding:20px;
+}
+.pFooter{
+    text-align: center;
+    color:white;
+    font-size:20px;
+
+}
